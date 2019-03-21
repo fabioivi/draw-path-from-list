@@ -1,6 +1,6 @@
 # Projeto Draw-Route
 
-Função desenvolvida em python que desenha uma rota gerada a partir de uma lista de pontos (x,y), conforme descrito no exemplo abaixo.
+Função desenvolvida em python que desenha uma rota a partir de uma lista de pontos (x,y), conforme descrito no exemplo abaixo.
 
 ## Exemplo de uso do projeto
 
