@@ -28,13 +28,13 @@ Segue um exemplo do resultado gerado:
 ## Linguagem e Bibliotecas
 
 - Python
-- Pyplot
+- Matplotlib
 
 ## Comandos para testar o projeto
 
 ### Instalar a biblioteca pyploy no python 
 ````
-pip3 install pyploy
+pip install matplotlib
 ````
 ### Como executar o projeto
 ````
